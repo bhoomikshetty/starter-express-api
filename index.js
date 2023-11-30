@@ -11,6 +11,15 @@ app.use(bodyParser.json());
 let courses = [
   { id: 1, name: 'Math 101', instructor: 'John Doe' },
   { id: 2, name: 'History 202', instructor: 'Jane Smith' },
+  { id: 3, name: 'MWE', instructor: 'John Doe' },
+  { id: 4, name: 'BDA', instructor: 'Jane Smith' },
+  { id: 5, name: 'MCS', instructor: 'John Doe' },
+  { id: 6, name: 'English ', instructor: 'Jane Smith' },
+  { id: 7, name: 'DSP', instructor: 'John Doe' },
+  { id: 8, name: 'History 202', instructor: 'Jane Smith' },
+  { id: 9, name: 'Math 101', instructor: 'John Doe' },
+  { id: 10, name: 'History 203', instructor: 'Jane Smith' },
+  
 ];
 
 // Get all courses
